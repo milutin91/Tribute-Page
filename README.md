@@ -13,3 +13,5 @@ The text that follows is taken from the [freeCodeCamp (Build a Tribute Page)](ht
 In order for the project to be completed, all of the above conditions had to be met.
 ___
 I used simple HTML and CSS in this project.
+
+Check out how it looks on [Codepen](https://codepen.io/milutin91/pen/ZEXdWpJ).
